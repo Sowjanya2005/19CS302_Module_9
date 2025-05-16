@@ -14,6 +14,11 @@ To Write a function to display queue elements using array.
 
 ## Program:
 ```
+/*
+C program to write a function to display queue elements using array.
+Developed by: Sowjanya A
+RegisterNumber:  212222060250
+*/
 float queue[50]; 
 int rear=-1,front=-1,i; 
 void display() 
