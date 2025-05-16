@@ -14,6 +14,11 @@ To write a C program that implements a queue using an array, and performs insert
 
 ## Program:
 ```
+/*
+C program that implements a queue using an array, and performs insertion (enqueue) and display operations.
+Developed by: Sowjanya A 
+RegisterNumber:  212222060250
+*/
 struct Node{ 
 char data; 
 struct Node *next; 
