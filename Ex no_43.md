@@ -1,5 +1,5 @@
 # EX 43 C program to Write a function to display queue elements using array.
-## DATE:
+## DATE:01/05/2025
 ## AIM:
 To Write a function to display queue elements using array.
 
